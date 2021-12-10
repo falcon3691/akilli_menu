@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akilli_menu", "akilli_menu\akilli_menu.csproj", "{12F232A5-6A6A-4595-A3DA-585BBFBB9256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F232A5-6A6A-4595-A3DA-585BBFBB9256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F232A5-6A6A-4595-A3DA-585BBFBB9256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F232A5-6A6A-4595-A3DA-585BBFBB9256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F232A5-6A6A-4595-A3DA-585BBFBB9256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653237C2-823C-4BC3-A5D6-C3E3D69D98A3}
+	EndGlobalSection
+EndGlobal
